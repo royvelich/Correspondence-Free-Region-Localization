@@ -20,7 +20,7 @@
     "@polymer/paper-toggle-button": "^3.0.1",
     "@vaadin/vaadin": "^14.0.0",
     "chroma-js": "^2.0.4",
-    "electron": "^6.0.0",
+    "electron": "^15.5.5",
     "fs-extra": "^8.1.0",
     "lit-element": "^2.2.1",
     "nano-id": "^1.1.0",
